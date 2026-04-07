@@ -1,0 +1,16 @@
+Flask
+numpy
+pandas
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+jupyter
+
+# Image processing
+opencv-python-headless
+Pillow
+
+# Utilities / deployment
+Werkzeug
+gunicorn
